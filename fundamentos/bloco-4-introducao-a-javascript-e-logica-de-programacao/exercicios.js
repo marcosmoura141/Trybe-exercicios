@@ -45,3 +45,14 @@ if (a > b) {
         maior = c;
     }
 } console.log(maior)
+
+//Faça um programa que, dado um valor definido numa constante, retorne "positive" se esse valor for positivo, "negative" se for negativo e "zero" caso contrário.//
+const a = 1;
+
+if (a >= 1){
+ console.log("positive")
+} else{
+    console("negative")
+}
+
+//Faça um programa que defina três constantes com os valores dos três ângulos internos de um triângulo. Retorne true se os ângulos representarem os ângulos de um triângulo e false , caso contrário. Se algum ângulo for inválido o programa deve retornar uma mensagem de erro.//
